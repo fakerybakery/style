@@ -1,3 +1,5 @@
+<a href="https://www.mrfake.name/ghpromo" target="_blank"><img src="https://mrfake.name/ghpromo/promo.png" height="250"></a>
+
 # Style
 ### My style of coding
 * Use `'` single quotes instead of `"` double quotes unless you really need to!
